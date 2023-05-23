@@ -30,11 +30,6 @@ img {
   height: 200px;
 }
 
-.imgcontainer{
-  display: flex;
-  justify-content: space-around;
-}
-
 .logo1 {
   height: 125px;
 }
