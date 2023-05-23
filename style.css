@@ -20,6 +20,7 @@ footer {
 footer p {
   text-align: left;
 }
+
 .imgcontent {
   display: flex;
   flex-direction: row;
